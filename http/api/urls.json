@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "name": "Brasil Escola",
+      "url": "https://brasilescola.uol.com.br"
+    },
+    {
+      "name": "brasilescola",
+      "url": "https://brasilescola.com.br"
+    },
+    {
+      "name": "biologianet",
+      "url": "https://www.biologianet.com"
+    },
+    {
+      "name": "teste",
+      "url": "http://be"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://youtube.com"
+    },
+    {
+      "name": "Mylinks",
+      "url": "http://localhost:5000"
+    }
+  ]
+}
