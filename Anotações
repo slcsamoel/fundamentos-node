@@ -1,0 +1,21 @@
+Node.js
+
+Introdução:
+	
+	O que é ? 
+	  (JS Runtime Enviroment) Ambiente de execução do java script 
+	
+	Para quer serve ? 
+		- Backend
+		- Frontend
+		- Micro serviços 
+		- Scripts e Automações
+		- API 
+						  	
+	Vantagens 
+		- Rapido ( execução , prototipação )
+		- Alta escalabilidade
+		- Aplicações de ponta (Netflix , paypal)
+		- Ecosistema Gigante(NPM)		
+         	- JS Everywhere ( Java script em todo lugar)
+         								  	
