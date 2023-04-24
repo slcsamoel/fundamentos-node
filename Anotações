@@ -19,4 +19,4 @@ Introdução:
 		- Ecosistema Gigante(NPM)		
          	- JS Everywhere ( Java script em todo lugar)
          								  	
-		- Modulos nativos do node (Common JS(require / exports) , os  , setinteval(global) , events , fs , path , http) 
+		- Modulos nativos do node (Common JS(require / exports) , os  , setinteval(global) , events , fs , path , http) (baixei a lib de dev nodemon pra atualização automatica do servidor)
